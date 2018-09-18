@@ -1,0 +1,6 @@
+venv/*
+*.pyc
+*.sqli
+*.ini
+settings.json
+*.txt
